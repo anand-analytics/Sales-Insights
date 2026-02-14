@@ -227,4 +227,7 @@ Estimated Improvements:
 - CRM data integration
 
 ---
+![Dashboard](https://github.com/anand-analytics/Sales-Insights/blob/main/Sales%20Insights%20Dashboard.png)
+
+![Star Schema](https://github.com/anand-analytics/Sales-Insights/blob/main/Star%20Schema.png)
 
